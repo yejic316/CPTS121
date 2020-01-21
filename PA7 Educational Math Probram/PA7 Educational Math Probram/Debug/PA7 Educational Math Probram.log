@@ -1,0 +1,28 @@
+﻿  main.c
+c:\users\yejic\documents\visual studio 2015\projects\pa\pa7 educational math probram\pa7 educational math probram\main.c(21): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\yejic\documents\visual studio 2015\projects\pa\pa7 educational math probram\pa7 educational math probram\main.c(28): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\yejic\documents\visual studio 2015\projects\pa\pa7 educational math probram\pa7 educational math probram\main.c(39): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\yejic\documents\visual studio 2015\projects\pa\pa7 educational math probram\pa7 educational math probram\main.c(43): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  function.c
+c:\users\yejic\documents\visual studio 2015\projects\pa\pa7 educational math probram\pa7 educational math probram\function.c(93): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\yejic\documents\visual studio 2015\projects\pa\pa7 educational math probram\pa7 educational math probram\function.c(127): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\yejic\documents\visual studio 2015\projects\pa\pa7 educational math probram\pa7 educational math probram\function.c(164): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\yejic\documents\visual studio 2015\projects\pa\pa7 educational math probram\pa7 educational math probram\function.c(237): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\yejic\documents\visual studio 2015\projects\pa\pa7 educational math probram\pa7 educational math probram\function.c(255): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\yejic\documents\visual studio 2015\projects\pa\pa7 educational math probram\pa7 educational math probram\function.c(345): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\yejic\documents\visual studio 2015\projects\pa\pa7 educational math probram\pa7 educational math probram\function.c(363): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  Generating Code...
+c:\users\yejic\documents\visual studio 2015\projects\pa\pa7 educational math probram\pa7 educational math probram\function.c(70): warning C4716: 'calculator': must return a value
+  PA7 Educational Math Probram.vcxproj -> C:\Users\Yejic\Documents\Visual Studio 2015\Projects\PA\PA7 Educational Math Probram\Debug\PA7 Educational Math Probram.exe
+  PA7 Educational Math Probram.vcxproj -> C:\Users\Yejic\Documents\Visual Studio 2015\Projects\PA\PA7 Educational Math Probram\Debug\PA7 Educational Math Probram.pdb (Full PDB)

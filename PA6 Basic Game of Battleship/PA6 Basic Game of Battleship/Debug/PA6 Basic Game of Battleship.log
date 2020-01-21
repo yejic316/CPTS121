@@ -1,0 +1,19 @@
+﻿  main.c
+c:\users\yejic\documents\visual studio 2015\projects\pa\pa6 basic game of battleship\pa6 basic game of battleship\main.c(71): warning C4047: 'function': 'int *' differs in levels of indirection from 'int **'
+c:\users\yejic\documents\visual studio 2015\projects\pa\pa6 basic game of battleship\pa6 basic game of battleship\main.c(71): warning C4024: 'randomly_place_ship': different types for formal and actual parameter 4
+c:\users\yejic\documents\visual studio 2015\projects\pa\pa6 basic game of battleship\pa6 basic game of battleship\main.c(71): warning C4024: 'randomly_place_ship': different types for formal and actual parameter 5
+c:\users\yejic\documents\visual studio 2015\projects\pa\pa6 basic game of battleship\pa6 basic game of battleship\main.c(81): warning C4047: 'function': 'int *' differs in levels of indirection from 'int **'
+c:\users\yejic\documents\visual studio 2015\projects\pa\pa6 basic game of battleship\pa6 basic game of battleship\main.c(81): warning C4024: 'randomly_place_ship': different types for formal and actual parameter 4
+c:\users\yejic\documents\visual studio 2015\projects\pa\pa6 basic game of battleship\pa6 basic game of battleship\main.c(81): warning C4024: 'randomly_place_ship': different types for formal and actual parameter 5
+c:\users\yejic\documents\visual studio 2015\projects\pa\pa6 basic game of battleship\pa6 basic game of battleship\main.c(33): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\yejic\documents\visual studio 2015\projects\pa\pa6 basic game of battleship\pa6 basic game of battleship\main.c(47): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\yejic\documents\visual studio 2015\projects\pa\pa6 basic game of battleship\pa6 basic game of battleship\main.c(101): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  function.c
+c:\users\yejic\documents\visual studio 2015\projects\pa\pa6 basic game of battleship\pa6 basic game of battleship\function.c(54): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  Generating Code...
+  PA6 Basic Game of Battleship.vcxproj -> C:\Users\Yejic\Documents\Visual Studio 2015\Projects\PA\PA6 Basic Game of Battleship\Debug\PA6 Basic Game of Battleship.exe
+  PA6 Basic Game of Battleship.vcxproj -> C:\Users\Yejic\Documents\Visual Studio 2015\Projects\PA\PA6 Basic Game of Battleship\Debug\PA6 Basic Game of Battleship.pdb (Full PDB)
