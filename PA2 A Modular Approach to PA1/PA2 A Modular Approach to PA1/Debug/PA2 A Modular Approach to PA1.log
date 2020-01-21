@@ -1,0 +1,10 @@
+﻿  main.c
+c:\users\yejic\documents\visual studio 2015\projects\pa\pa2 a modular approach to pa1\pa2 a modular approach to pa1\main.c(41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yejic\documents\visual studio 2015\projects\pa\pa2 a modular approach to pa1\pa2 a modular approach to pa1\main.c(52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yejic\documents\visual studio 2015\projects\pa\pa2 a modular approach to pa1\pa2 a modular approach to pa1\main.c(72): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yejic\documents\visual studio 2015\projects\pa\pa2 a modular approach to pa1\pa2 a modular approach to pa1\main.c(83): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yejic\documents\visual studio 2015\projects\pa\pa2 a modular approach to pa1\pa2 a modular approach to pa1\main.c(92): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yejic\documents\visual studio 2015\projects\pa\pa2 a modular approach to pa1\pa2 a modular approach to pa1\main.c(101): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yejic\documents\visual studio 2015\projects\pa\pa2 a modular approach to pa1\pa2 a modular approach to pa1\main.c(97): warning C4476: 'printf' : unknown type field character ')' in format specifier
+  PA2 A Modular Approach to PA1.vcxproj -> C:\Users\Yejic\Documents\Visual Studio 2015\Projects\PA\PA2 A Modular Approach to PA1\Debug\PA2 A Modular Approach to PA1.exe
+  PA2 A Modular Approach to PA1.vcxproj -> C:\Users\Yejic\Documents\Visual Studio 2015\Projects\PA\PA2 A Modular Approach to PA1\Debug\PA2 A Modular Approach to PA1.pdb (Full PDB)

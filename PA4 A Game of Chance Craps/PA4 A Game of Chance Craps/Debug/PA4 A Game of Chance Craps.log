@@ -1,0 +1,12 @@
+﻿  main.c
+c:\users\yejic\documents\visual studio 2015\projects\pa\pa4 a game of chance craps\pa4 a game of chance craps\main.c(40): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  function.c
+c:\users\yejic\documents\visual studio 2015\projects\pa\pa4 a game of chance craps\pa4 a game of chance craps\function.c(59): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\yejic\documents\visual studio 2015\projects\pa\pa4 a game of chance craps\pa4 a game of chance craps\function.c(79): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\yejic\documents\visual studio 2015\projects\pa\pa4 a game of chance craps\pa4 a game of chance craps\function.c(107): warning C4033: 'check_wager_amount' must return a value
+  Generating Code...
+  PA4 A Game of Chance Craps.vcxproj -> C:\Users\Yejic\Documents\Visual Studio 2015\Projects\PA\PA4 A Game of Chance Craps\Debug\PA4 A Game of Chance Craps.exe
+  PA4 A Game of Chance Craps.vcxproj -> C:\Users\Yejic\Documents\Visual Studio 2015\Projects\PA\PA4 A Game of Chance Craps\Debug\PA4 A Game of Chance Craps.pdb (Full PDB)

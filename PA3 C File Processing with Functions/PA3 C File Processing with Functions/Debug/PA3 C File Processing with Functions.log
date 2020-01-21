@@ -1,0 +1,8 @@
+﻿  functions.c
+c:\users\yejic\documents\visual studio 2015\projects\pa\pa3 c file processing with functions\pa3 c file processing with functions\functions.c(26): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\yejic\documents\visual studio 2015\projects\pa\pa3 c file processing with functions\pa3 c file processing with functions\functions.c(43): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\yejic\documents\visual studio 2015\projects\pa\pa3 c file processing with functions\pa3 c file processing with functions\functions.c(28): warning C4716: 'open_input_file': must return a value
+  PA3 C File Processing with Functions.vcxproj -> C:\Users\Yejic\Documents\Visual Studio 2015\Projects\PA\PA3 C File Processing with Functions\Debug\PA3 C File Processing with Functions.exe
+  PA3 C File Processing with Functions.vcxproj -> C:\Users\Yejic\Documents\Visual Studio 2015\Projects\PA\PA3 C File Processing with Functions\Debug\PA3 C File Processing with Functions.pdb (Full PDB)
