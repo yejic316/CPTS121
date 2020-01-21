@@ -1,0 +1,17 @@
+﻿  main.c
+c:\users\yejic\documents\visual studio 2015\projects\pa\pa8 c interview question\pa8 c interview question\main.c(21): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[10]'
+c:\users\yejic\documents\visual studio 2015\projects\pa\pa8 c interview question\pa8 c interview question\main.c(21): warning C4024: 'my_str_n_cpy': different types for formal and actual parameter 1
+c:\users\yejic\documents\visual studio 2015\projects\pa\pa8 c interview question\pa8 c interview question\main.c(21): warning C4024: 'my_str_n_cpy': different types for formal and actual parameter 2
+c:\users\yejic\documents\visual studio 2015\projects\pa\pa8 c interview question\pa8 c interview question\main.c(24): warning C4013: 'system' undefined; assuming extern returning int
+c:\users\yejic\documents\visual studio 2015\projects\pa\pa8 c interview question\pa8 c interview question\main.c(40): warning C4133: 'function': incompatible types - from 'int *[5]' to 'char **'
+c:\users\yejic\documents\visual studio 2015\projects\pa\pa8 c interview question\pa8 c interview question\main.c(110): warning C4047: 'function': 'int **' differs in levels of indirection from 'int *'
+c:\users\yejic\documents\visual studio 2015\projects\pa\pa8 c interview question\pa8 c interview question\main.c(110): warning C4024: 'max_consecutive_integers': different types for formal and actual parameter 4
+c:\users\yejic\documents\visual studio 2015\projects\pa\pa8 c interview question\pa8 c interview question\main.c(38): warning C4133: 'initializing': incompatible types - from 'char [6]' to 'int *'
+c:\users\yejic\documents\visual studio 2015\projects\pa\pa8 c interview question\pa8 c interview question\main.c(38): warning C4133: 'initializing': incompatible types - from 'char [5]' to 'int *'
+c:\users\yejic\documents\visual studio 2015\projects\pa\pa8 c interview question\pa8 c interview question\main.c(38): warning C4133: 'initializing': incompatible types - from 'char [4]' to 'int *'
+c:\users\yejic\documents\visual studio 2015\projects\pa\pa8 c interview question\pa8 c interview question\main.c(43): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'int *'
+c:\users\yejic\documents\visual studio 2015\projects\pa\pa8 c interview question\pa8 c interview question\main.c(65): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\yejic\documents\visual studio 2015\projects\pa\pa8 c interview question\pa8 c interview question\main.c(105): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'int *'
+  PA8 C Interview Question.vcxproj -> C:\Users\Yejic\Documents\Visual Studio 2015\Projects\PA\PA8 C Interview Question\Debug\PA8 C Interview Question.exe
+  PA8 C Interview Question.vcxproj -> C:\Users\Yejic\Documents\Visual Studio 2015\Projects\PA\PA8 C Interview Question\Debug\PA8 C Interview Question.pdb (Full PDB)
